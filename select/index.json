@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "GOZALO (Ultra Slowed)",
+  "base_artist": "Ariis",
+  "createdAt": "2026-04-05T04:42:29.799447Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "GOZALO (Ultra Slowed)",
+      "artist": "Ariis",
+      "has_synced": true,
+      "path": "select/01_GOZALO_(Ultra_Slowed)_Ariis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GOZALO (Ultra Slowed)",
+      "artist": "x",
+      "has_synced": true,
+      "path": "select/02_GOZALO_(Ultra_Slowed)_x.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "GOZALO (Ultra Slowed)",
+      "artist": "Song, Ariis",
+      "has_synced": true,
+      "path": "select/03_GOZALO_(Ultra_Slowed)_Song,_Ariis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ariis - GOZALO (Ultra Slowed)",
+      "artist": "Ariis",
+      "has_synced": true,
+      "path": "select/04_Ariis_-_GOZALO_(Ultra_Slowed)_Ariis.lrc"
+    }
+  ]
+}
